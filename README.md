@@ -26,4 +26,14 @@ This repository contains a sleek and professional portfolio website template des
 
 ### Getting Started
 
-+ Clone the Repository: Download the repository to your local machine using 
++ Clone the Repository: Download the repository to your local machine using ```git clone https://github.com/isaacnewton123/Template-Website-Portopolio-for-Airdrop-Hunter-Noder-Validator  ```
++ Customize the Content: Edit the HTML, CSS, and JavaScript files to add your personal information, projects, and social links.
++ Deploy the Website: Host your portfolio on GitHub Pages, Netlify, or any other hosting platform of your choice.
+
+
+### Contributing
+
+Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository, make your changes, and submit a pull request.
+
+
+# For Example U Can See My Website https://isaacnewton.site
