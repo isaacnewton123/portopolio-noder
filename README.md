@@ -26,7 +26,7 @@ This repository contains a sleek and professional portfolio website template des
 
 ### Getting Started
 
-+ Clone the Repository: Download the repository to your local machine using ```wget https://github.com/isaacnewton123/portopolio-noder/releases/download/website/Website.2.0.zip ```
++ Clone the Repository: Download the repository to your local machine using ```wget https://github.com/isaacnewton123/portopolio-noder/releases/download/website/website.V2.1.zip ```
 + Customize the Content: Edit the HTML, CSS, and JavaScript files to add your personal information, projects, and social links.
 + Deploy the Website: Host your portfolio on GitHub Pages, Netlify, or any other hosting platform of your choice.
 
